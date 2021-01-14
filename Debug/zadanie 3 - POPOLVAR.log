@@ -1,0 +1,9 @@
+﻿  Source.cpp
+c:\users\peter\onedrive - slovenská technická univerzita v bratislave\škola\dsa\úlohy na cvikách\zadanie 3 - popolvar\zadanie 3 - popolvar\source.cpp(34): warning C4091: 'typedef ': ignored on left of 'rodic' when no variable is declared
+c:\users\peter\onedrive - slovenská technická univerzita v bratislave\škola\dsa\úlohy na cvikách\zadanie 3 - popolvar\zadanie 3 - popolvar\source.cpp(40): warning C4091: 'typedef ': ignored on left of 'vrchol' when no variable is declared
+c:\users\peter\onedrive - slovenská technická univerzita v bratislave\škola\dsa\úlohy na cvikách\zadanie 3 - popolvar\zadanie 3 - popolvar\source.cpp(44): warning C4091: 'typedef ': ignored on left of 'suradnica' when no variable is declared
+c:\users\peter\onedrive - slovenská technická univerzita v bratislave\škola\dsa\úlohy na cvikách\zadanie 3 - popolvar\zadanie 3 - popolvar\source.cpp(49): warning C4091: 'typedef ': ignored on left of 'princezna' when no variable is declared
+c:\users\peter\onedrive - slovenská technická univerzita v bratislave\škola\dsa\úlohy na cvikách\zadanie 3 - popolvar\zadanie 3 - popolvar\source.cpp(209): warning C4101: 'vrchol': unreferenced local variable
+c:\users\peter\onedrive - slovenská technická univerzita v bratislave\škola\dsa\úlohy na cvikách\zadanie 3 - popolvar\zadanie 3 - popolvar\source.cpp(557): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  zadanie 3 - POPOLVAR.vcxproj -> C:\Users\peter\OneDrive - Slovenská technická univerzita v Bratislave\Škola\DSA\Úlohy na cvikách\zadanie 3 - POPOLVAR\Debug\zadanie 3 - POPOLVAR.exe
+  zadanie 3 - POPOLVAR.vcxproj -> C:\Users\peter\OneDrive - Slovenská technická univerzita v Bratislave\Škola\DSA\Úlohy na cvikách\zadanie 3 - POPOLVAR\Debug\zadanie 3 - POPOLVAR.pdb (Partial PDB)
